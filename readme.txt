@@ -9,6 +9,8 @@ Stable tag: 2.4.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
+This is the custom brach - put custom changes to Tutor LMS here.
+
 A complete WordPress LMS plugin to create any e-learning website easily.
 
 == Description ==
